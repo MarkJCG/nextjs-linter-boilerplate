@@ -1,0 +1,14 @@
+# Ignore artifacts:
+build/
+dist/
+
+# Ignore specific files:
+package-lock.json
+.next
+.cache
+public
+node_modules
+next-env.d.ts
+next.config.ts
+yarn.lock
+.eslintrc.json
